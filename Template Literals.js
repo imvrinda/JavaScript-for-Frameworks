@@ -1,4 +1,3 @@
-
 const normal_name ="vyas"
 const greet_normally = "My name is " + normal_name
 
