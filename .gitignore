@@ -1,1 +1,5 @@
 app.js
+app.html
+node_modules/
+package.json
+package-lock.json
