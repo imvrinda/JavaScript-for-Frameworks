@@ -32,3 +32,11 @@ const sum4 = () => {
     console.log(x / y) //return 3
 }
 sum4()
+
+//function passed arguments
+const greet = (name, age) => {
+    return `Hello ${name} and age is ${age}`
+
+}
+
+console.log(greet("Vrinda", 21)) //return
